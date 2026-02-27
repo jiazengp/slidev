@@ -51,6 +51,7 @@
   "dependencies": {
     "@antfu/ni": "catalog:prod",
     "@antfu/utils": "catalog:frontend",
+    "@comark/markdown-it": "catalog:prod",
     "@iconify-json/carbon": "catalog:icons",
     "@iconify-json/ph": "catalog:icons",
     "@iconify-json/svg-spinners": "catalog:icons",
@@ -83,7 +84,6 @@
     "magic-string-stack": "catalog:prod",
     "markdown-exit": "catalog:prod",
     "markdown-it-footnote": "catalog:prod",
-    "markdown-it-mdc": "catalog:prod",
     "mlly": "catalog:prod",
     "monaco-editor": "catalog:monaco",
     "obug": "catalog:prod",
